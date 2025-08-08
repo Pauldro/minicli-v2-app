@@ -1,0 +1,17 @@
+{
+  "name": "pauldro/minicli-v2-app",
+  "description": "Minicli Application Template",
+  "keywords": ["cli","command-line", "template"],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Lib\\": "lib/"
+    }
+  },
+  "require": {
+    "php": ">=8.1",
+    "minicli/minicli": "^4.2",
+    "pauldro/minicli-v2": "dev-main",
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
