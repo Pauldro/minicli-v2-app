@@ -129,12 +129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/minicli-v2.git",
-                "reference": "ced0e61d0df801e602999dcc008c34efa0fb976a"
+                "reference": "6b63f1d58b2e027ab199965da63fd4eb6db30e09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/ced0e61d0df801e602999dcc008c34efa0fb976a",
-                "reference": "ced0e61d0df801e602999dcc008c34efa0fb976a",
+                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/6b63f1d58b2e027ab199965da63fd4eb6db30e09",
+                "reference": "6b63f1d58b2e027ab199965da63fd4eb6db30e09",
                 "shasum": ""
             },
             "require": {
@@ -171,7 +171,7 @@
                 "issues": "https://github.com/Pauldro/minicli-v2/issues",
                 "source": "https://github.com/Pauldro/minicli-v2/tree/main"
             },
-            "time": "2025-08-08T17:58:24+00:00"
+            "time": "2025-08-11T23:32:11+00:00"
         },
         {
             "name": "phpoption/phpoption",
