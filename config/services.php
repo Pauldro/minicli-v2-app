@@ -13,6 +13,6 @@ return [
     'services' => [
         //        'my_service' => \App\Services\MyService::class,
         'log' => \Pauldro\Minicli\v2\Logging\Logger::class,
-         'vendorfilepath' => \Pauldro\Minicli\v2\Services\VendorFilepathParser::class,
+        'vendorfilepath' => \Pauldro\Minicli\v2\Services\VendorFilepathParser::class,
     ],
 ];
