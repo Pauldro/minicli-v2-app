@@ -5,13 +5,13 @@ use Dotenv\Dotenv;
 // Minicli
 use Minicli\App;
 use Minicli\ServiceInterface;
-
+// Pauldro Minicli
+use Pauldro\Minicli\v2\Services\Env as EnvParent;
 
 /**
- * Dotenv
  * Wrapper for Dotenv for environment variables
  */
-class Env implements ServiceInterface {
+class Env extends EnvParent implements ServiceInterface {
     const REQUIRED = [
         "APP.NAME",
         "APP.DESCRIPTION",
