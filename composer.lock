@@ -129,12 +129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/minicli-v2.git",
-                "reference": "72fbe9412c0e276037ad0af1f837a16812f69a9a"
+                "reference": "251e73ced763bd277f8e474019a9afa161e32960"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/72fbe9412c0e276037ad0af1f837a16812f69a9a",
-                "reference": "72fbe9412c0e276037ad0af1f837a16812f69a9a",
+                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/251e73ced763bd277f8e474019a9afa161e32960",
+                "reference": "251e73ced763bd277f8e474019a9afa161e32960",
                 "shasum": ""
             },
             "require": {
@@ -175,7 +175,7 @@
                 "issues": "https://github.com/Pauldro/minicli-v2/issues",
                 "source": "https://github.com/Pauldro/minicli-v2/tree/main"
             },
-            "time": "2026-04-17T19:42:32+00:00"
+            "time": "2026-04-20T21:03:14+00:00"
         },
         {
             "name": "pauldro/utility-belt-v2",
@@ -183,12 +183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/pauldro-utilities-v2.git",
-                "reference": "97b4464fc07519d540b845c6133862080c93b61d"
+                "reference": "99972e825fdae930422243fed6d2165ede78cc42"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/pauldro-utilities-v2/zipball/97b4464fc07519d540b845c6133862080c93b61d",
-                "reference": "97b4464fc07519d540b845c6133862080c93b61d",
+                "url": "https://api.github.com/repos/Pauldro/pauldro-utilities-v2/zipball/99972e825fdae930422243fed6d2165ede78cc42",
+                "reference": "99972e825fdae930422243fed6d2165ede78cc42",
                 "shasum": ""
             },
             "default-branch": true,
@@ -204,7 +204,7 @@
                 "issues": "https://github.com/Pauldro/pauldro-utilities-v2/issues",
                 "source": "https://github.com/Pauldro/pauldro-utilities-v2/tree/main"
             },
-            "time": "2026-04-15T19:12:09+00:00"
+            "time": "2026-04-20T20:59:37+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -283,7 +283,7 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.36.0",
+            "version": "v1.37.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
@@ -342,7 +342,7 @@
                 "portable"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.36.0"
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.37.0"
             },
             "funding": [
                 {
@@ -366,7 +366,7 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.36.0",
+            "version": "v1.37.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -427,7 +427,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.36.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.37.0"
             },
             "funding": [
                 {
@@ -451,7 +451,7 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.36.0",
+            "version": "v1.37.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
@@ -511,7 +511,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.36.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.37.0"
             },
             "funding": [
                 {

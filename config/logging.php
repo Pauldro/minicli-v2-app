@@ -16,9 +16,7 @@ return [
 
     'logging' => [
         'type' => LogType::SINGLE->value,
-
         'level' => LogLevel::INFO->value,
-
         'timestamp_format' => 'Y-m-d H:i:s',
         'file_type' => LogFileType::SINGLE->value,
     ],
