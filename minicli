@@ -5,6 +5,8 @@ if (php_sapi_name() !== 'cli') {
     exit;
 }
 
+session_start();
+
 require __DIR__ . '/vendor/autoload.php';
 
 use Pauldro\Minicli\v2\App\App;
