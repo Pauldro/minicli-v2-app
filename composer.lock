@@ -129,12 +129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/minicli-v2.git",
-                "reference": "251e73ced763bd277f8e474019a9afa161e32960"
+                "reference": "3579e399b668b1f6281572fc5c29b52ae845a974"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/251e73ced763bd277f8e474019a9afa161e32960",
-                "reference": "251e73ced763bd277f8e474019a9afa161e32960",
+                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/3579e399b668b1f6281572fc5c29b52ae845a974",
+                "reference": "3579e399b668b1f6281572fc5c29b52ae845a974",
                 "shasum": ""
             },
             "require": {
@@ -175,7 +175,7 @@
                 "issues": "https://github.com/Pauldro/minicli-v2/issues",
                 "source": "https://github.com/Pauldro/minicli-v2/tree/main"
             },
-            "time": "2026-04-20T21:03:14+00:00"
+            "time": "2026-06-12T18:34:05+00:00"
         },
         {
             "name": "pauldro/utility-belt-v2",
@@ -366,16 +366,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.37.0",
+            "version": "v1.38.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "6a21eb99c6973357967f6ce3708cd55a6bec6315"
+                "reference": "d3d318bad5e7a1bfbd026009c8bfb8d8f99ae6b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/6a21eb99c6973357967f6ce3708cd55a6bec6315",
-                "reference": "6a21eb99c6973357967f6ce3708cd55a6bec6315",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/d3d318bad5e7a1bfbd026009c8bfb8d8f99ae6b6",
+                "reference": "d3d318bad5e7a1bfbd026009c8bfb8d8f99ae6b6",
                 "shasum": ""
             },
             "require": {
@@ -427,7 +427,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.37.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.38.2"
             },
             "funding": [
                 {
@@ -447,7 +447,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-10T17:25:58+00:00"
+            "time": "2026-05-27T06:59:30+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
