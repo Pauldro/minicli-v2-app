@@ -129,12 +129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/minicli-v2.git",
-                "reference": "183a2a9731d5d2f9de7d28eea3396a537cb0c59b"
+                "reference": "4501ed5e179393b46d682487b598fe2fbc24212c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/183a2a9731d5d2f9de7d28eea3396a537cb0c59b",
-                "reference": "183a2a9731d5d2f9de7d28eea3396a537cb0c59b",
+                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/4501ed5e179393b46d682487b598fe2fbc24212c",
+                "reference": "4501ed5e179393b46d682487b598fe2fbc24212c",
                 "shasum": ""
             },
             "require": {
@@ -175,7 +175,7 @@
                 "issues": "https://github.com/Pauldro/minicli-v2/issues",
                 "source": "https://github.com/Pauldro/minicli-v2/tree/main"
             },
-            "time": "2026-06-18T19:52:11+00:00"
+            "time": "2026-06-26T23:22:13+00:00"
         },
         {
             "name": "pauldro/utility-belt-v2",
@@ -183,12 +183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/pauldro-utilities-v2.git",
-                "reference": "99972e825fdae930422243fed6d2165ede78cc42"
+                "reference": "17fb73f3dbaed1bb88486aba47ce933e97829ff6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/pauldro-utilities-v2/zipball/99972e825fdae930422243fed6d2165ede78cc42",
-                "reference": "99972e825fdae930422243fed6d2165ede78cc42",
+                "url": "https://api.github.com/repos/Pauldro/pauldro-utilities-v2/zipball/17fb73f3dbaed1bb88486aba47ce933e97829ff6",
+                "reference": "17fb73f3dbaed1bb88486aba47ce933e97829ff6",
                 "shasum": ""
             },
             "default-branch": true,
@@ -204,7 +204,7 @@
                 "issues": "https://github.com/Pauldro/pauldro-utilities-v2/issues",
                 "source": "https://github.com/Pauldro/pauldro-utilities-v2/tree/main"
             },
-            "time": "2026-04-20T20:59:37+00:00"
+            "time": "2026-06-19T18:32:20+00:00"
         },
         {
             "name": "phpoption/phpoption",
