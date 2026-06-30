@@ -129,12 +129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/minicli-v2.git",
-                "reference": "4501ed5e179393b46d682487b598fe2fbc24212c"
+                "reference": "a2d272cd2363a71bffe8d315fe9b5fb3606b785d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/4501ed5e179393b46d682487b598fe2fbc24212c",
-                "reference": "4501ed5e179393b46d682487b598fe2fbc24212c",
+                "url": "https://api.github.com/repos/Pauldro/minicli-v2/zipball/a2d272cd2363a71bffe8d315fe9b5fb3606b785d",
+                "reference": "a2d272cd2363a71bffe8d315fe9b5fb3606b785d",
                 "shasum": ""
             },
             "require": {
@@ -175,7 +175,7 @@
                 "issues": "https://github.com/Pauldro/minicli-v2/issues",
                 "source": "https://github.com/Pauldro/minicli-v2/tree/main"
             },
-            "time": "2026-06-26T23:22:13+00:00"
+            "time": "2026-06-30T17:04:18+00:00"
         },
         {
             "name": "pauldro/utility-belt-v2",
