@@ -23,16 +23,14 @@ class Env extends EnvParent implements ServiceInterface {
 
     /**
      * load
-     * @param  App  $app
      * @throws Exception
-     * @return void
      */
     public function load(App $app) : void
     {
         try {
             $dotenv = Dotenv::createImmutable($app->base_path);
             $dotenv->load();
-        } catch (Exception $e) {
+        } catch (Exception) {
             throw new Exception("Unable to load app .env");
         }
         
