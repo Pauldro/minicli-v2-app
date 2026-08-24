@@ -11,12 +11,13 @@ use Pauldro\Minicli\v2\Services\Env as EnvParent;
 /**
  * Wrapper for Dotenv for environment variables
  */
-class Env extends EnvParent implements ServiceInterface {
-    const REQUIRED = [
-        "APP.NAME",
-        "APP.DESCRIPTION",
-        "LOG.COMMANDS",
-        "LOG.ERRORS"
+class Env extends EnvParent implements ServiceInterface
+{
+    public const REQUIRED = [
+        'APP.NAME',
+        'APP.DESCRIPTION',
+        'LOG.COMMANDS',
+        'LOG.ERRORS'
     ];
 
     protected Dotenv $env;
@@ -25,15 +26,15 @@ class Env extends EnvParent implements ServiceInterface {
      * load
      * @throws Exception
      */
-    public function load(App $app) : void
+    public function load(App $app): void
     {
         try {
             $dotenv = Dotenv::createImmutable($app->base_path);
             $dotenv->load();
         } catch (Exception) {
-            throw new Exception("Unable to load app .env");
+            throw new Exception('Unable to load app .env');
         }
-        
+
         $this->env = $dotenv;
         $this->env->required(static::REQUIRED);
     }
