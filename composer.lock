@@ -184,12 +184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pauldro/pauldro-utilities-v2.git",
-                "reference": "fa7805feb45ccee8c5f0dc96fad9d6ac5d1189ed"
+                "reference": "e873caa49c1215fcf306e75ee70832bd00c9807a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pauldro/pauldro-utilities-v2/zipball/fa7805feb45ccee8c5f0dc96fad9d6ac5d1189ed",
-                "reference": "fa7805feb45ccee8c5f0dc96fad9d6ac5d1189ed",
+                "url": "https://api.github.com/repos/Pauldro/pauldro-utilities-v2/zipball/e873caa49c1215fcf306e75ee70832bd00c9807a",
+                "reference": "e873caa49c1215fcf306e75ee70832bd00c9807a",
                 "shasum": ""
             },
             "require": {
@@ -212,7 +212,7 @@
                 "issues": "https://github.com/Pauldro/pauldro-utilities-v2/issues",
                 "source": "https://github.com/Pauldro/pauldro-utilities-v2/tree/main"
             },
-            "time": "2026-08-24T19:29:48+00:00"
+            "time": "2026-08-24T19:51:41+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -3350,5 +3350,5 @@
         "php": ">=8.1"
     },
     "platform-dev": {},
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.6.0"
 }
